@@ -254,6 +254,10 @@ h6 {
   padding: var(--section-header-padding);
 }
 
+.section-body {
+  padding: var(--section-body-padding);
+}
+
 .section-footer {
   padding: var(--section-footer-padding);
   align-content: var(--section-footer-align);
